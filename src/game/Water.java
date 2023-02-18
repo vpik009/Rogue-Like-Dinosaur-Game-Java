@@ -1,7 +1,7 @@
 package game;
 
-import edu.monash.fit2099.engine.Actor;
-import edu.monash.fit2099.engine.Ground;
+import edu.engine.Actor;
+import edu.engine.Ground;
 
 /**
  * Water class, extended from Ground class that gives an ability for dinosaurs to drink water and

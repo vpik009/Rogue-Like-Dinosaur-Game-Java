@@ -1,9 +1,9 @@
 package game;
 
-import edu.monash.fit2099.engine.Action;
-import edu.monash.fit2099.engine.Actor;
-import edu.monash.fit2099.engine.GameMap;
-import edu.monash.fit2099.engine.Item;
+import edu.engine.Action;
+import edu.engine.Actor;
+import edu.engine.GameMap;
+import edu.engine.Item;
 
 /**
  * BuyAction inherits from Action, and is used to buy items from a vending machine

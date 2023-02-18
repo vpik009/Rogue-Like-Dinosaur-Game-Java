@@ -1,6 +1,6 @@
 package game;
 
-import edu.monash.fit2099.engine.Item;
+import edu.engine.Item;
 
 /**
  * Base class for any item that can be picked up and dropped.

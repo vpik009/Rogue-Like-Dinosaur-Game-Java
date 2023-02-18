@@ -2,7 +2,7 @@ package game;
 
 import java.util.List;
 
-import edu.monash.fit2099.engine.*;
+import edu.engine.*;
 
 /**
  * ThirstBehaviour class implements Behaviour interface, and hence implements the getAction method

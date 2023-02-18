@@ -2,12 +2,12 @@ package game;
 
 import java.util.List;
 
-import edu.monash.fit2099.engine.Action;
-import edu.monash.fit2099.engine.Actor;
-import edu.monash.fit2099.engine.Exit;
-import edu.monash.fit2099.engine.GameMap;
-import edu.monash.fit2099.engine.Ground;
-import edu.monash.fit2099.engine.Item;
+import edu.engine.Action;
+import edu.engine.Actor;
+import edu.engine.Exit;
+import edu.engine.GameMap;
+import edu.engine.Ground;
+import edu.engine.Item;
 
 /**
  * HerbivoreBehaviour implements Behaviour interface and hence needs to implement its getAction method

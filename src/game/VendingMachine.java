@@ -1,6 +1,6 @@
 package game;
 
-import edu.monash.fit2099.engine.*;
+import edu.engine.*;
 
 /**
  * Vending machine is a public class extended from Ground.

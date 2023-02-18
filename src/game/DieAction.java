@@ -1,5 +1,5 @@
 package game;
-import edu.monash.fit2099.engine.*;
+import edu.engine.*;
 
 /**
  * DieAction is used when an actor should die in order to remove the actor from the map and spawn a corpse in its place

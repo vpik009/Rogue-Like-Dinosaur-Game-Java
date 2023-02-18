@@ -1,6 +1,6 @@
 package game;
 
-import edu.monash.fit2099.engine.*;
+import edu.engine.*;
 
 /**
  * A class that represents bare dirt.

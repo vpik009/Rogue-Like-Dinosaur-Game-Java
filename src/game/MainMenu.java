@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 import javax.management.RuntimeErrorException;
 
-import edu.monash.fit2099.engine.Actor;
-import edu.monash.fit2099.engine.Display;
+import edu.engine.Actor;
+import edu.engine.Display;
 
 /**
  * This is a public class that extends MenuError.

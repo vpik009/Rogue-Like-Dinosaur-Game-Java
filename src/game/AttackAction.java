@@ -2,12 +2,12 @@ package game;
 
 import java.util.Random;
 
-import edu.monash.fit2099.engine.Action;
-import edu.monash.fit2099.engine.Actions;
-import edu.monash.fit2099.engine.Actor;
-import edu.monash.fit2099.engine.GameMap;
-import edu.monash.fit2099.engine.Item;
-import edu.monash.fit2099.engine.Weapon;
+import edu.engine.Action;
+import edu.engine.Actions;
+import edu.engine.Actor;
+import edu.engine.GameMap;
+import edu.engine.Item;
+import edu.engine.Weapon;
 
 /**
  * Special Action for attacking other Actors.

@@ -1,7 +1,7 @@
 package game;
 
-import edu.monash.fit2099.engine.Actor;
-import edu.monash.fit2099.engine.Ground;
+import edu.engine.Actor;
+import edu.engine.Ground;
 
 /**
  * public class wall extends from ground. This is a type of ground that a player cannot enter

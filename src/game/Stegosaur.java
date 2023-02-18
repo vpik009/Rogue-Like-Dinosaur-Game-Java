@@ -5,7 +5,7 @@ package game;
 
 import java.util.ArrayList;
 
-import edu.monash.fit2099.engine.*;
+import edu.engine.*;
 
 /**
  * This is a public class Stegosaur, which is a child class of Dinosaur.

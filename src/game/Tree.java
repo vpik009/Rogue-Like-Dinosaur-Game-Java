@@ -2,12 +2,12 @@ package game;
 
 import java.util.ArrayList;
 
-import edu.monash.fit2099.engine.Action;
-import edu.monash.fit2099.engine.Actions;
-import edu.monash.fit2099.engine.Actor;
-import edu.monash.fit2099.engine.Ground;
-import edu.monash.fit2099.engine.Item;
-import edu.monash.fit2099.engine.Location;
+import edu.engine.Action;
+import edu.engine.Actions;
+import edu.engine.Actor;
+import edu.engine.Ground;
+import edu.engine.Item;
+import edu.engine.Location;
 /**
  * A public class Tree extended from Ground.
  * This class allows to control the maturity of tree and chance of dropping action.

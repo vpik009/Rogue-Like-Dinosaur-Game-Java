@@ -1,9 +1,9 @@
 package game;
 
-import edu.monash.fit2099.engine.Action;
-import edu.monash.fit2099.engine.Actor;
-import edu.monash.fit2099.engine.GameMap;
-import edu.monash.fit2099.engine.Location;
+import edu.engine.Action;
+import edu.engine.Actor;
+import edu.engine.GameMap;
+import edu.engine.Location;
 /**
  * DrinkAction, extended from Action class is used an action that enables an actor to drink water and increase its thirst level.
  */

@@ -1,6 +1,6 @@
 package game;
 
-import edu.monash.fit2099.engine.Item;
+import edu.engine.Item;
 
 /**
  * A public class Hay that is extended from PortableItem that implements Purchasable and Feedable

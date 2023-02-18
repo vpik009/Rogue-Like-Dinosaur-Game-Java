@@ -1,8 +1,8 @@
 package game;
 
-import edu.monash.fit2099.engine.Action;
-import edu.monash.fit2099.engine.Actor;
-import edu.monash.fit2099.engine.GameMap;
+import edu.engine.Action;
+import edu.engine.Actor;
+import edu.engine.GameMap;
 
 /**
  * public interface used to specify which actors should have behaviours, and a getAction method to be played on a turn.

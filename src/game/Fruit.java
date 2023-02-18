@@ -1,7 +1,7 @@
 package game;
 
-import edu.monash.fit2099.engine.Item;
-import edu.monash.fit2099.engine.Location;
+import edu.engine.Item;
+import edu.engine.Location;
 
 /**
  * A public class Fruit  that is extended from PortableItem that implements Purchasable and Feedable

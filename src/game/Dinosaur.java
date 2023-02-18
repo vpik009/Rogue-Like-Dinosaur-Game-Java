@@ -1,8 +1,8 @@
 package game;
 
-import edu.monash.fit2099.engine.*;
-
 import java.util.ArrayList;
+
+import edu.engine.*;
 
 public abstract class Dinosaur extends Actor {
 
@@ -143,7 +143,7 @@ public abstract class Dinosaur extends Actor {
      * FIXME: Stegosaur wanders around at random, or if no suitable MoveActions are available, it
      * just stands there.  That's boring.
      *
-     * @see edu.monash.fit2099.engine.Actor#playTurn(Actions, Action, GameMap, Display)
+     * @see edu.engine.Actor#playTurn(Actions, Action, GameMap, Display)
      */
     @Override
     public Action playTurn(Actions actions, Action lastAction, GameMap map, Display display) {

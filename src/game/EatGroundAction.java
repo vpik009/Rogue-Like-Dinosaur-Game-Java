@@ -1,9 +1,9 @@
 package game;
 
-import edu.monash.fit2099.engine.Action;
-import edu.monash.fit2099.engine.Actor;
-import edu.monash.fit2099.engine.GameMap;
-import edu.monash.fit2099.engine.Ground;
+import edu.engine.Action;
+import edu.engine.Actor;
+import edu.engine.GameMap;
+import edu.engine.Ground;
 
 /**
  * Extended from Action Class, this class implements eating ground as food

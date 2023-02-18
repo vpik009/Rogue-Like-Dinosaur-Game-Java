@@ -1,11 +1,11 @@
 package game;
 
-import edu.monash.fit2099.engine.Action;
-import edu.monash.fit2099.engine.Actions;
-import edu.monash.fit2099.engine.Actor;
-import edu.monash.fit2099.engine.Display;
-import edu.monash.fit2099.engine.DoNothingAction;
-import edu.monash.fit2099.engine.GameMap;
+import edu.engine.Action;
+import edu.engine.Actions;
+import edu.engine.Actor;
+import edu.engine.Display;
+import edu.engine.DoNothingAction;
+import edu.engine.GameMap;
 
 
 /**

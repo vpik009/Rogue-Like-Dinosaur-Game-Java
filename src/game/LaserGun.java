@@ -1,6 +1,6 @@
 package game;
 
-import edu.monash.fit2099.engine.WeaponItem;
+import edu.engine.WeaponItem;
 
 /**
  * A public class LaserGun extended from WeapanItem that implements Purchasable

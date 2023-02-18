@@ -1,9 +1,9 @@
 package game;
 
-import edu.monash.fit2099.engine.Actor;
-import edu.monash.fit2099.engine.GameMap;
-import edu.monash.fit2099.engine.Item;
-import edu.monash.fit2099.engine.Location;
+import edu.engine.Actor;
+import edu.engine.GameMap;
+import edu.engine.Item;
+import edu.engine.Location;
 
 /**
  * This is a public abstract Egg that extends from portableItem and implements Feedable and Purchasable

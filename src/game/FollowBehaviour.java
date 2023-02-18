@@ -1,6 +1,6 @@
 package game;
 
-import edu.monash.fit2099.engine.*;
+import edu.engine.*;
 
 /**
  * A class that figures out a MoveAction that will move the actor one step 
